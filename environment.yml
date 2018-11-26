@@ -1,0 +1,12 @@
+name: PLotly-viz-brain-img
+
+channels:
+conda-forge
+plotly
+
+dependencies:
+numpy
+matplotlib
+nilearn
+plotly
+
