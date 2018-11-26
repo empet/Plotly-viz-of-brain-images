@@ -1,6 +1,5 @@
 
 numpy
 matplotlib
-copy
 nilearn
 plotly
